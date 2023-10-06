@@ -1,0 +1,15 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\bin\Debug\net6.0\RaioEsfera.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\bin\Debug\net6.0\RaioEsfera.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\bin\Debug\net6.0\RaioEsfera.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\bin\Debug\net6.0\RaioEsfera.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\bin\Debug\net6.0\RaioEsfera.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\refint\RaioEsfera.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\RaioEsfera.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\RaioEsfera\RaioEsfera\obj\Debug\net6.0\ref\RaioEsfera.dll
